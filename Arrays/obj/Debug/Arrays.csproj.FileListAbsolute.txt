@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\bin\Debug\Arrays.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\obj\Debug\Arrays.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Arrays\obj\Debug\Arrays.pdb
