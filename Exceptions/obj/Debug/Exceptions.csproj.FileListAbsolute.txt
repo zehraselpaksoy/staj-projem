@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Exceptions\obj\Debug\Exceptions.pdb

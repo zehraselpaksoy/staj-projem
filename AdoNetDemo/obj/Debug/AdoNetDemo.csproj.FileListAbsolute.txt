@@ -1,0 +1,10 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
