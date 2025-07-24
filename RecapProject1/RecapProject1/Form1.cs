@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RecapProject1
 {
-    public partial class Form1: Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
@@ -34,7 +29,7 @@ namespace RecapProject1
         {
             using (NorthwindContext context = new NorthwindContext())
             {
-                dgwProduct.DataSource = context.Products.Where(p => p.CategoryId==categoryId).ToList();
+                dgwProduct.DataSource = context.Products.Where(p => p.CategoryId == categoryId).ToList();
             }
         }
         private void ListProductByProductName(string key)
@@ -51,7 +46,7 @@ namespace RecapProject1
                 cbxCategory.DataSource = context.Categories.ToList();
                 cbxCategory.DisplayMember = "CategoryName";//görülecek değer
                 cbxCategory.ValueMember = "CategoryId";//Göstrecek değiri ismi al ama seçtiğimde değer idsi olsun
-                
+
             }
         }
 
@@ -62,7 +57,7 @@ namespace RecapProject1
                 ListProductByCategory(Convert.ToInt32(cbxCategory.SelectedValue));
 
             }
-            catch 
+            catch
             {
 
             }
@@ -79,7 +74,7 @@ namespace RecapProject1
             {
                 ListProductByProductName(tbxSearch.Text);
             }
-               
+
         }
     }
 }
