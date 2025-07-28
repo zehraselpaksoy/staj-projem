@@ -1,0 +1,15 @@
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\TestContextDemo.Tests.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\TestContextDemo.Tests.pdb
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\obj\Debug\TestContextDemo.Tests.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\obj\Debug\TestContextDemo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\obj\Debug\TestCont.B1A204A9.Up2Date
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\obj\Debug\TestContextDemo.Tests.dll
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestContextDemo.Tests\obj\Debug\TestContextDemo.Tests.pdb
