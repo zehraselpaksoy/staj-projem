@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3675D125-6012-45E1-B2DE-169A6AB68FD5}|Multiton\\Multiton.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\multiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675D125-6012-45E1-B2DE-169A6AB68FD5}|Multiton\\Multiton.csproj|solutionrelative:multiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F69B0C-C8B0-4FF8-939B-9299F760D637}|NullObject\\NullObject.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\nullobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F69B0C-C8B0-4FF8-939B-9299F760D637}|NullObject\\NullObject.csproj|solutionrelative:nullobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2707536C-5940-4D94-AED5-FF65EAFB414C}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2707536C-5940-4D94-AED5-FF65EAFB414C}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD291494-2DFE-4F94-A933-E246D103BB17}|Visitor\\Visitor.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD291494-2DFE-4F94-A933-E246D103BB17}|Visitor\\Visitor.csproj|solutionrelative:visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7872E7CF-3F4D-4612-BB73-892E9C79DCD5}|Command\\Command.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7872E7CF-3F4D-4612-BB73-892E9C79DCD5}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C671280B-A25B-4F9B-B09C-47AC7D81B23F}|Mediator\\Mediator.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C671280B-A25B-4F9B-B09C-47AC7D81B23F}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3789848D-E36E-430D-9C85-FDACA8FD97ED}|State\\State.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3789848D-E36E-430D-9C85-FDACA8FD97ED}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF66908-E9E0-4056-ABEC-B0F095637AA5}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF66908-E9E0-4056-ABEC-B0F095637AA5}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE9ED91-385D-47FF-9A07-4410A8DC86E3}|Mmento\\Mmento.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\mmento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE9ED91-385D-47FF-9A07-4410A8DC86E3}|Mmento\\Mmento.csproj|solutionrelative:mmento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F92A2D-C65C-4718-AEA3-EE08BD756343}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F92A2D-C65C-4718-AEA3-EE08BD756343}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779D65E4-C09F-4A58-8EE5-F99DCAA8F3E0}|Observer\\Observer.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779D65E4-C09F-4A58-8EE5-F99DCAA8F3E0}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F190DEFA-2AEE-4922-B168-AF7732EE01C5}|Strategy\\Strategy.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F190DEFA-2AEE-4922-B168-AF7732EE01C5}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E870726-280D-4105-81DC-F2BDE172C7AF}|Bridge\\Bridge.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E870726-280D-4105-81DC-F2BDE172C7AF}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF78222-8484-499D-B7E5-9D614FDDAC1A}|Decorator\\Decorator.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF78222-8484-499D-B7E5-9D614FDDAC1A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F89C3E-625F-40B6-BF66-C97506B68A4A}|Proxy\\Proxy.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F89C3E-625F-40B6-BF66-C97506B68A4A}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE1BAF9-EA7F-4EEF-B0A4-A9BD3A31FD73}|Composite\\Composite.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE1BAF9-EA7F-4EEF-B0A4-A9BD3A31FD73}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3638C06F-5A11-46B7-AF6F-D9AAD20F133D}|Adapter\\Adapter.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3638C06F-5A11-46B7-AF6F-D9AAD20F133D}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A1F919-E0B5-4AAB-B6EC-02CDD6CD9679}|Facade\\Facade.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A1F919-E0B5-4AAB-B6EC-02CDD6CD9679}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449F354E-575E-4C86-BD28-8FD50220D81D}|Prototype\\Prototype.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449F354E-575E-4C86-BD28-8FD50220D81D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CDDB44-8E28-4FBD-B59C-3F59E45F1A31}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CDDB44-8E28-4FBD-B59C-3F59E45F1A31}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA80FD76-8B1C-4836-A951-B0247A0F7FDA}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA80FD76-8B1C-4836-A951-B0247A0F7FDA}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C104C4-EAA2-493E-B653-917AB61BCC74}|Builder\\Builder.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C104C4-EAA2-493E-B653-917AB61BCC74}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6278426-1243-4485-A25B-EAED9B8E279A}|Singleton\\Singleton.csproj|c:\\users\\zehra asel\\source\\repos\\designpatterns\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6278426-1243-4485-A25B-EAED9B8E279A}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:57:24.651Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Multiton\\Program.cs",
+              "RelativeDocumentMoniker": "Multiton\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Multiton\\Program.cs",
+              "RelativeToolTip": "Multiton\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:57:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\NullObject\\Program.cs",
+              "RelativeDocumentMoniker": "NullObject\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\NullObject\\Program.cs",
+              "RelativeToolTip": "NullObject\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:51:59.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:43:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Visitor\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Visitor\\Program.cs",
+              "RelativeToolTip": "Visitor\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:27:43.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:21:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Mediator\\Program.cs",
+              "RelativeToolTip": "Mediator\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:56:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\State\\Program.cs",
+              "RelativeDocumentMoniker": "State\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\State\\Program.cs",
+              "RelativeToolTip": "State\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:47:55.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\TemplateMethod\\Program.cs",
+              "RelativeToolTip": "TemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:37:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Mmento\\Program.cs",
+              "RelativeDocumentMoniker": "Mmento\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Mmento\\Program.cs",
+              "RelativeToolTip": "Mmento\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:16:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswD0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:57:02.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:46:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:34:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:13:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:46:36.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:06:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:20:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:02:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:44:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA9wDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:41:34.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:33:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:14:07.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:27:58.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

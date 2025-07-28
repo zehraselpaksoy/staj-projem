@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\bin\Debug\State.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\obj\Debug\State.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\State\obj\Debug\State.pdb

@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
