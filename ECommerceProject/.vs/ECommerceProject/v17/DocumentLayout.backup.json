@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\concrete\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\concrete\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|solutionrelative:ecommerceproject.entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|solutionrelative:ecommerceproject.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\concrete\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\concrete\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\concrete\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\concrete\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\concrete\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\concrete\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DD27FE-7723-4C5B-954A-CAEFCD2591D9}|ECommerceProject.Entities\\ECommerceProject.Entities.csproj|solutionrelative:ecommerceproject.entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\concrete\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\concrete\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207F1F3-0329-4C8E-BE47-F2FC7C905FB0}|ECommerceProject.DataAccess\\ECommerceProject.DataAccess.csproj|solutionrelative:ecommerceproject.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\global.asax||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\global.asax||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|c:\\users\\zehra asel\\source\\repos\\ecommerceproject\\ecommerceproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C390C6-F4D0-47D3-A840-E543F42AA24C}|ECommerceProject\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Views\\Home\\Details.cshtml*",
+              "RelativeToolTip": "ECommerceProject\\Views\\Home\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T14:06:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ECommerceProject\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:38:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\App_Start\\RouteConfig.cs*",
+              "RelativeToolTip": "ECommerceProject\\App_Start\\RouteConfig.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:47:45.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ECommerceProject\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T12:51:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "ECommerceProject.Entities\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:53:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Concrete\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfProductDal.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Concrete\\EfProductDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:17:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Concrete\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\DataInitializer.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Concrete\\DataInitializer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:31:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "ECommerceProject.Entities\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:19:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\DataContext.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Concrete\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\DataContext.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Concrete\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:26:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Concrete\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Concrete\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:19:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "ECommerceProject.Entities\\Concrete\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:19:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Web.config",
+              "RelativeDocumentMoniker": "ECommerceProject\\Web.config",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Web.config",
+              "RelativeToolTip": "ECommerceProject\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-31T13:34:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Concrete\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Concrete\\EfCategoryDal.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Concrete\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:18:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:18:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:18:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "ECommerceProject.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:18:18.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Global.asax",
+              "RelativeDocumentMoniker": "ECommerceProject\\Global.asax",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Global.asax",
+              "RelativeToolTip": "ECommerceProject\\Global.asax",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2025-07-31T13:16:24.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\ECommerceProject\\ECommerceProject\\Global.asax.cs",
+              "RelativeToolTip": "ECommerceProject\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:50:27.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
