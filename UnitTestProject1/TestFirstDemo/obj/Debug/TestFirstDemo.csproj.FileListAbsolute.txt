@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\bin\Debug\TestFirstDemo.exe.config
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\bin\Debug\TestFirstDemo.exe
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\bin\Debug\TestFirstDemo.pdb
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\obj\Debug\TestFirstDemo.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\obj\Debug\TestFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\obj\Debug\TestFirstDemo.exe
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\TestFirstDemo\obj\Debug\TestFirstDemo.pdb

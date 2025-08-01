@@ -1,0 +1,14 @@
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.dll.config
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.dll
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.pdb
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwinds.Entities.dll
+C:\Users\ZEHRA ASEL\source\repos\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwinds.Entities.pdb
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.dll.config
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.dll
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\bin\Debug\Northwinds.Entities.pdb
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwinds.Entities.dll
+C:\Users\ZEHRA ASEL\source\repos\staj-projem\NLayeredAppDemo\Northwinds.Entities\obj\Debug\Northwinds.Entities.pdb

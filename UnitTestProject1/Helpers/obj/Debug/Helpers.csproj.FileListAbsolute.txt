@@ -1,0 +1,2 @@
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache

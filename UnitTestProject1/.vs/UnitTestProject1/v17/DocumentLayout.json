@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD261A-AD2E-4D67-8C36-904C9EC5CB54}|TestFirstDemo.Tests\\TestFirstDemo.Tests.csproj|c:\\users\\zehra asel\\source\\repos\\unittestproject1\\testfirstdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD261A-AD2E-4D67-8C36-904C9EC5CB54}|TestFirstDemo.Tests\\TestFirstDemo.Tests.csproj|solutionrelative:testfirstdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|c:\\users\\zehra asel\\source\\repos\\unittestproject1\\testfirstdemo\\olcum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|solutionrelative:testfirstdemo\\olcum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|c:\\users\\zehra asel\\source\\repos\\unittestproject1\\testfirstdemo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|solutionrelative:testfirstdemo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|c:\\users\\zehra asel\\source\\repos\\unittestproject1\\testfirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50E3843-A05D-4276-AEFB-9ADE01287428}|TestFirstDemo\\TestFirstDemo.csproj|solutionrelative:testfirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F428471-A694-47D7-848D-E30840342431}|CollectionAsserts.Tests\\CollectionAsserts.Tests.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\collectionasserts.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F428471-A694-47D7-848D-E30840342431}|CollectionAsserts.Tests\\CollectionAsserts.Tests.csproj|solutionrelative:collectionasserts.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF2C7F-AB86-4E2C-ACC3-71895F25CE17}|AssertDemos\\AssertDemos.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\assertdemos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF2C7F-AB86-4E2C-ACC3-71895F25CE17}|AssertDemos\\AssertDemos.csproj|solutionrelative:assertdemos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF94F-ABE1-43E1-81EA-85B25C9D1808}|TestAttributes.Tests\\TestAttributes.Tests.csproj|c:\\users\\zehra asel\\source\\repos\\unittestproject1\\testattributes.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1AF94F-ABE1-43E1-81EA-85B25C9D1808}|TestAttributes.Tests\\TestAttributes.Tests.csproj|solutionrelative:testattributes.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68130F5-7819-4153-BB9B-33CDE35635B5}|TestContextDemo.Tests\\TestContextDemo.Tests.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\testcontextdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68130F5-7819-4153-BB9B-33CDE35635B5}|TestContextDemo.Tests\\TestContextDemo.Tests.csproj|solutionrelative:testcontextdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8733F50-8D18-4BF6-ABDC-07E8038D5C4A}|StringAsserts.Tests\\StringAsserts.Tests.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\stringasserts.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8733F50-8D18-4BF6-ABDC-07E8038D5C4A}|StringAsserts.Tests\\StringAsserts.Tests.csproj|solutionrelative:stringasserts.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271430CB-429F-457D-B60E-09B2E4CFE403}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\shoppingcart.tests\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271430CB-429F-457D-B60E-09B2E4CFE403}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|solutionrelative:shoppingcart.tests\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDB29F6-012A-461D-8FA4-1A05B15FF03E}|AssemblyLevel\\AssemblyLevel.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\assemblylevel\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDB29F6-012A-461D-8FA4-1A05B15FF03E}|AssemblyLevel\\AssemblyLevel.csproj|solutionrelative:assemblylevel\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDB29F6-012A-461D-8FA4-1A05B15FF03E}|AssemblyLevel\\AssemblyLevel.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\assemblylevel\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDB29F6-012A-461D-8FA4-1A05B15FF03E}|AssemblyLevel\\AssemblyLevel.csproj|solutionrelative:assemblylevel\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\shopiningcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|solutionrelative:shopiningcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\shopiningcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|solutionrelative:shopiningcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\shopiningcart\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|solutionrelative:shopiningcart\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\shopiningcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0640FC-A8A0-44C2-97A2-2F17F11D3CD5}|ShopiningCart\\ShopiningCart.csproj|solutionrelative:shopiningcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CDD2F-93D1-49BE-90D1-5EFE8E14A694}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\unittestproject1\\stringhelperstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801CDD2F-93D1-49BE-90D1-5EFE8E14A694}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\stringhelperstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7645868D-647F-4469-B2E2-041F5E73FE74}|Helpers\\Helpers.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7645868D-647F-4469-B2E2-041F5E73FE74}|Helpers\\Helpers.csproj|solutionrelative:helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarTests.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShoppingCart.Tests\\CarTests.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.Tests\\CarTests.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShoppingCart.Tests\\CarTests.cs",
+              "RelativeToolTip": "ShoppingCart.Tests\\CarTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:34:46.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestFirstDemo.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TestFirstDemo.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:59:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Olcum.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Olcum.cs",
+              "RelativeDocumentMoniker": "TestFirstDemo\\Olcum.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Olcum.cs",
+              "RelativeToolTip": "TestFirstDemo\\Olcum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:59:10.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gruplayici.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Gruplayici.cs",
+              "RelativeDocumentMoniker": "TestFirstDemo\\Gruplayici.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Gruplayici.cs",
+              "RelativeToolTip": "TestFirstDemo\\Gruplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:58:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TestFirstDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestFirstDemo\\Program.cs",
+              "RelativeToolTip": "TestFirstDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:58:28.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssertDemos\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AssertDemos\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssertDemos\\UnitTest1.cs",
+              "RelativeToolTip": "AssertDemos\\UnitTest1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADgv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:20:32.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestAttributes.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestAttributes.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestAttributes.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TestAttributes.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:28:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\CollectionAsserts.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CollectionAsserts.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\CollectionAsserts.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CollectionAsserts.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:25:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestContextDemo.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestContextDemo.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\TestContextDemo.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TestContextDemo.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:26:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\StringAsserts.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StringAsserts.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\StringAsserts.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "StringAsserts.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:25:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssemblyLevel\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "AssemblyLevel\\UnitTest2.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssemblyLevel\\UnitTest2.cs",
+              "RelativeToolTip": "AssemblyLevel\\UnitTest2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:08:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssemblyLevel\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AssemblyLevel\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\AssemblyLevel\\UnitTest1.cs",
+              "RelativeToolTip": "AssemblyLevel\\UnitTest1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:08:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\CartManager.cs",
+              "RelativeDocumentMoniker": "ShopiningCart\\CartManager.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\CartManager.cs",
+              "RelativeToolTip": "ShopiningCart\\CartManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:30:55.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\CartItem.cs",
+              "RelativeDocumentMoniker": "ShopiningCart\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\CartItem.cs",
+              "RelativeToolTip": "ShopiningCart\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:30:38.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\Product.cs",
+              "RelativeDocumentMoniker": "ShopiningCart\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\Product.cs",
+              "RelativeToolTip": "ShopiningCart\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:30:09.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\Program.cs",
+              "RelativeDocumentMoniker": "ShopiningCart\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\ShopiningCart\\Program.cs",
+              "RelativeToolTip": "ShopiningCart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:29:52.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StringHelpersTest.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\UnitTestProject1\\StringHelpersTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\StringHelpersTest.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\UnitTestProject1\\StringHelpersTest.cs",
+              "RelativeToolTip": "UnitTestProject1\\StringHelpersTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:15:32.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\Helpers\\Helpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\Helpers.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\UnitTestProject1\\Helpers\\Helpers.cs",
+              "RelativeToolTip": "Helpers\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:10:36.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

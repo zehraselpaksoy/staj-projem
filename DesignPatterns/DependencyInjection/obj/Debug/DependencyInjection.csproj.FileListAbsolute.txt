@@ -1,0 +1,10 @@
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\DependencyInjection\obj\Debug\Dependen.428E3D85.Up2Date

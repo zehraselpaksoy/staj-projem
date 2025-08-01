@@ -1,0 +1,2 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\AccessModifier\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\AccessModifier\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
