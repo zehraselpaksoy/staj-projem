@@ -1,0 +1,39 @@
+﻿@model List<ECommerceProject.Entities.Concrete.CartItem>
+
+@if (Model == null || !Model.Any())
+{
+    <div>Sepetiniz boş.</div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ürün</th>
+                <th>Fiyat</th>
+                <th>Adet</th>a
+                <th>İşlem</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.Product != null ? item.Product.Name : "Bilinmeyen Ürün")</td>
+                    <td>@item.UnitPrice.ToString("C")</td>
+                    <td>@item.Quantity</td>
+                    <td>
+                        <a href="@Url.Action("DecreaseQuantity", "Home", new { id = item.ProductId })" class="cart-action-link" data-action="decrease">-</a>
+                        <a href="@Url.Action("IncreaseQuantity", "Home", new { id = item.ProductId })" class="cart-action-link" data-action="increase">+</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Toplam Tutar: @Model.Sum(x => x.TotalPrice).ToString("C")</h4>
+
+    <div class="text-right">
+        <a href="@Url.Action("ClearCart", "Home")" class="btn btn-danger cart-action-link" data-action="clear">Sepeti Temizle</a>
+    </div>
+}

@@ -1,0 +1,15 @@
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.DataAccess.dll.config
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.DataAccess.dll
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.DataAccess.pdb
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.Entities.dll
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.Entities.pdb
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\ECommerceProject.Entities.dll.config
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\obj\Debug\ECommerceProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\obj\Debug\ECommerceProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\obj\Debug\ECommerc.6669B09B.Up2Date
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\obj\Debug\ECommerceProject.DataAccess.dll
+C:\Users\ZEHRA ASEL\source\repos\ECommerceProject\ECommerceProject.DataAccess\obj\Debug\ECommerceProject.DataAccess.pdb
