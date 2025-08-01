@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\utilities\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\utilities\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\utilities\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\utilities\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FF7E945-06DD-48EF-A542-8DF8E949D377}|Northwinds.Entities\\Northwind.Entities.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwinds.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,18 +47,14 @@
       "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Northwind.WebFormsUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\concrete\\nhibernate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\concrete\\nhibernate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\nhibernate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,24 +62,20 @@
       "RelativeMoniker": "D:0:0:{2FF7E945-06DD-48EF-A542-8DF8E949D377}|Northwinds.Entities\\Northwind.Entities.csproj|solutionrelative:northwinds.entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FF7E945-06DD-48EF-A542-8DF8E949D377}|Northwinds.Entities\\Northwind.Entities.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwinds.entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FF7E945-06DD-48EF-A542-8DF8E949D377}|Northwinds.Entities\\Northwind.Entities.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwinds.entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FF7E945-06DD-48EF-A542-8DF8E949D377}|Northwinds.Entities\\Northwind.Entities.csproj|solutionrelative:northwinds.entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwin.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwin.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277F1A23-9A7A-40E0-8A5F-D20EA28E6AC3}|Northwin.Business\\Northwin.Business.csproj|solutionrelative:northwin.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C700C4C9-8974-427A-B73C-E84E76BED09F}|Northwind.DataAccess\\Northwind.DataAccess.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,9 +84,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\northwind.webformsui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18493D78-0223-4E85-8042-5E1CADC01507}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|c:\\users\\zehra asel\\source\\repos\\staj-projem\\nlayeredappdemo\\northwind.webformsui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -120,274 +109,42 @@
               "Title": "InstanceFactory.cs",
               "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
               "RelativeDocumentMoniker": "Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs*",
-              "RelativeToolTip": "Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "RelativeToolTip": "Northwin.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T10:58:29.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Form1.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs [Design]",
-              "RelativeToolTip": "Northwind.WebFormsUI\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:28:22.845Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Form1.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs",
-              "RelativeToolTip": "Northwind.WebFormsUI\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwBoAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:40:57.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusinessModule.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
-              "RelativeToolTip": "Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T10:54:25.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\ProductManager.cs",
               "RelativeDocumentMoniker": "Northwin.Business\\Concrete\\ProductManager.cs",
               "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\ProductManager.cs",
               "RelativeToolTip": "Northwin.Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T12:54:43.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "RelativeToolTip": "Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "RelativeDocumentMoniker": "Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "RelativeToolTip": "Northwin.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T10:00:27.149Z",
+              "WhenOpened": "2025-07-24T10:54:25.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ValidationTool.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Utilities\\ValidationTool.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\Utilities\\ValidationTool.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Utilities\\ValidationTool.cs",
-              "RelativeToolTip": "Northwin.Business\\Utilities\\ValidationTool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T10:32:08.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Northwin.Business\\Abstract\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:57:48.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:25:40.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:05:30.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Product.cs",
-              "RelativeDocumentMoniker": "Northwinds.Entities\\Concrete\\Product.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Product.cs",
-              "RelativeToolTip": "Northwinds.Entities\\Concrete\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T12:30:50.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "Northwin.Business\\Concrete\\CategoryManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T06:17:07.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:33:53.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NhProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:37:33.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Abstract\\IEntity.cs",
-              "RelativeDocumentMoniker": "Northwinds.Entities\\Abstract\\IEntity.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Abstract\\IEntity.cs",
-              "RelativeToolTip": "Northwinds.Entities\\Abstract\\IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:24:32.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Category.cs",
-              "RelativeDocumentMoniker": "Northwinds.Entities\\Concrete\\Category.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Category.cs",
-              "RelativeToolTip": "Northwinds.Entities\\Concrete\\Category.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:22:30.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Northwind.WebFormsUI",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
-              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
-              "RelativeToolTip": "Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-24T09:12:30.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:03:30.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Northwin.Business\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "Northwin.Business\\Abstract\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T06:15:46.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IEntityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:07:37.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ICategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
-              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:32:10.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "EfProductDal.cs",
               "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
               "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
@@ -400,7 +157,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:33:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Northwin.Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Northwin.Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:17:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeToolTip": "Northwin.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:00:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationTool.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Utilities\\ValidationTool.cs",
+              "RelativeDocumentMoniker": "Northwin.Business\\Utilities\\ValidationTool.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Utilities\\ValidationTool.cs",
+              "RelativeToolTip": "Northwin.Business\\Utilities\\ValidationTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:32:08.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Northwind.WebFormsUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:28:22.845Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:25:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:05:30.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Northwinds.Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Northwinds.Entities\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:30:50.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:37:33.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Northwinds.Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Northwinds.Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:24:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Northwinds.Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwinds.Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Northwinds.Entities\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:22:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Northwind.WebFormsUI",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+              "RelativeToolTip": "Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T09:12:30.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:03:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Northwin.Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwin.Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Northwin.Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:15:46.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:07:37.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:32:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\staj-projem\\NLayeredAppDemo\\Northwind.WebFormsUI\\App.config",
               "RelativeDocumentMoniker": "Northwind.WebFormsUI\\App.config",
