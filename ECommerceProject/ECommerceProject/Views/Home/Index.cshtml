@@ -1,0 +1,35 @@
+﻿@model List<ECommerceProject.Entities.Concrete.Product>
+
+@{
+    ViewBag.Title = "Ürün Listesi";
+}
+
+<h2>Ürünler</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ürün Adı</th>
+            <th>Açıklama</th>
+            <th>Fiyat</th>
+            <th>Stok</th>
+            <th>Kategori</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price ₺</td>
+                <td>@item.Stock</td>
+                <td>@item.Category?.Name</td>
+                <td>
+                    <a href="@Url.Action("Details", "Home", new { id = item.Id })">Detay</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
