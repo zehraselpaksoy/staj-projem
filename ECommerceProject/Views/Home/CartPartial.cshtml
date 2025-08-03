@@ -2,16 +2,16 @@
 
 @if (Model == null || !Model.Any())
 {
-    <div>Sepetiniz boş.</div>
+    <div class="alert alert-info text-center mt-3">Sepetiniz boş.</div>
 }
 else
 {
-    <table class="table">
-        <thead>
+    <table class="table table-striped table-hover mt-3">
+        <thead class="table-primary">
             <tr>
                 <th>Ürün</th>
                 <th>Fiyat</th>
-                <th>Adet</th>a
+                <th>Adet</th>
                 <th>İşlem</th>
             </tr>
         </thead>
@@ -23,17 +23,19 @@ else
                     <td>@item.UnitPrice.ToString("C")</td>
                     <td>@item.Quantity</td>
                     <td>
-                        <a href="@Url.Action("DecreaseQuantity", "Home", new { id = item.ProductId })" class="cart-action-link" data-action="decrease">-</a>
-                        <a href="@Url.Action("IncreaseQuantity", "Home", new { id = item.ProductId })" class="cart-action-link" data-action="increase">+</a>
+                        <a href="@Url.Action("DecreaseQuantity", "Home", new { id = item.ProductId })"
+                           class="btn btn-sm btn-outline-secondary cart-action-link me-1" data-action="decrease">-</a>
+                        <a href="@Url.Action("IncreaseQuantity", "Home", new { id = item.ProductId })"
+                           class="btn btn-sm btn-outline-secondary cart-action-link" data-action="increase">+</a>
                     </td>
                 </tr>
             }
         </tbody>
     </table>
 
-    <h4>Toplam Tutar: @Model.Sum(x => x.TotalPrice).ToString("C")</h4>
+    <h5 class="text-end fw-bold mt-3">Toplam Tutar: @Model.Sum(x => x.TotalPrice).ToString("C")</h5>
 
-    <div class="text-right">
-        <a href="@Url.Action("ClearCart", "Home")" class="btn btn-danger cart-action-link" data-action="clear">Sepeti Temizle</a>
+    <div class="text-end">
+        <a href="@Url.Action("ClearCart", "Home")" class="btn btn-danger btn-sm cart-action-link mt-2" data-action="clear">Sepeti Temizle</a>
     </div>
 }
