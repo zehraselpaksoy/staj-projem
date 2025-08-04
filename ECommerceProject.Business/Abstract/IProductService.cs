@@ -7,7 +7,7 @@ namespace ECommerceProject.Business.Abstract
     public interface IProductService
     {
         List<ProductDto> GetAllProductsWithCategories();
-        List<ProductDto> GetProductsByCategory(int categoryId); // Yeni eklendi
+        List<ProductDto> GetProductsByCategory(int categoryId); 
         Product GetProductById(int id);
     }
 }

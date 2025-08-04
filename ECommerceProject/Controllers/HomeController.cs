@@ -29,7 +29,6 @@ namespace ECommerceProject.Web.Controllers
 
             var categories = _categoryService.GetAllWithHierarchy();
 
-            // ✅ Favori ürün ID’lerini çek
             var currentUser = Session["CurrentUser"] as User;
             var favoriteProductIds = new List<int>();
 

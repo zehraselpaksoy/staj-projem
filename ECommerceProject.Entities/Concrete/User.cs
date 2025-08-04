@@ -9,7 +9,7 @@ namespace ECommerceProject.Entities.Concrete
 
         public string Email { get; set; }
 
-        public string PasswordHash { get; set; }  // Güvenlik için şifreyi hash olarak tut
+        public string PasswordHash { get; set; } 
 
         public string FullName { get; set; }
 
@@ -21,7 +21,7 @@ namespace ECommerceProject.Entities.Concrete
         // Kullanıcının siparişleri
         public virtual ICollection<Order> Orders { get; set; } = new HashSet<Order>();
 
-        // Kullanıcı sepeti (birden fazla cart item olabilir)
+
         public virtual ICollection<CartItem> CartItems { get; set; } = new HashSet<CartItem>();
     }
 }

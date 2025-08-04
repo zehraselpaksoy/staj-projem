@@ -23,7 +23,7 @@ namespace ECommerceProject.Business.Concrete
                 .Include("Category")
                 .Include("Category.ParentCategory")
                 .Include("Category.ParentCategory.ParentCategory")
-                .ToList(); // EF'den çıkış
+                .ToList(); 
 
             return products.Select(p => new ProductDto
             {
@@ -38,7 +38,7 @@ namespace ECommerceProject.Business.Concrete
                     && p.Category.ParentCategory.ParentCategory != null
                     ? p.Category.ParentCategory.ParentCategory.Name : null,
 
-                // ✅ Yeni alan: Tüm kategori yolunu oluştur
+                
                 FullCategoryPath = BuildCategoryPath(p.Category)
             }).ToList();
         }
@@ -54,7 +54,7 @@ namespace ECommerceProject.Business.Concrete
                 .Include("Category")
                 .Include("Category.ParentCategory")
                 .Include("Category.ParentCategory.ParentCategory")
-                .ToList(); // EF'den çıkış
+                .ToList();
 
             return products.Select(p => new ProductDto
             {
@@ -69,12 +69,12 @@ namespace ECommerceProject.Business.Concrete
                     && p.Category.ParentCategory.ParentCategory != null
                     ? p.Category.ParentCategory.ParentCategory.Name : null,
 
-                // ✅ Yeni alan: Tüm kategori yolunu oluştur
+               
                 FullCategoryPath = BuildCategoryPath(p.Category)
             }).ToList();
         }
 
-        // Alt kategori ID'lerini recursive olarak bul
+        // Alt kategori ID'lerini 
         private List<int> GetAllChildCategoryIds(int parentId, List<Category> allCategories)
         {
             var result = new List<int> { parentId };
@@ -85,7 +85,7 @@ namespace ECommerceProject.Business.Concrete
                 foreach (var childId in children)
                 {
                     result.Add(childId);
-                    AddChildren(childId); // recursive
+                    AddChildren(childId); 
                 }
             }
 

@@ -4,11 +4,11 @@ namespace ECommerceProject.Entities.Concrete
 {
     public class CartItem
     {
-        public int Id { get; set; }  // DB için primary key ekle
+        public int Id { get; set; }  
 
-        public int? UserId { get; set; }  // Giriş yapan kullanıcı için (nullable olabilir)
+        public int? UserId { get; set; }  
 
-        public string SessionId { get; set; }  // Giriş yapmayan kullanıcılar için session id
+        public string SessionId { get; set; }  
 
         public int ProductId { get; set; }
 
