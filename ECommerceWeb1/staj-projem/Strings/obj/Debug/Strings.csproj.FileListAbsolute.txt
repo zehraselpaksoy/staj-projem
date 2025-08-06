@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\bin\Debug\Strings.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\bin\Debug\Strings.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\bin\Debug\Strings.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\obj\Debug\Strings.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Strings\obj\Debug\Strings.pdb

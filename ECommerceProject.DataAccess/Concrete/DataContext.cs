@@ -14,7 +14,7 @@ public class DataContext : DbContext
     public DbSet<Product> Products { get; set; }
     public DbSet<Favorite> Favorites { get; set; }
     public DbSet<CartItem> CartItems { get; set; }
-    public DbSet<Order> Orders { get; set; }
+    public DbSet<Order> Orders { get; set; }    
     public DbSet<OrderItem> OrderItems { get; set; }
 
     protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -25,12 +25,12 @@ public class DataContext : DbContext
             .HasForeignKey(c => c.ParentId)
             .WillCascadeOnDelete(false);
 
-        // Diğer ilişkileri de buraya ekleyebilirsin.
-        modelBuilder.Entity<Product>()
-    .HasRequired(p => p.Category)
-    .WithMany(c => c.Products)
-    .HasForeignKey(p => p.CategoryId)
-    .WillCascadeOnDelete(false);
+       
+            modelBuilder.Entity<Product>()
+            .HasRequired(p => p.Category)
+            .WithMany(c => c.Products)
+            .HasForeignKey(p => p.CategoryId)
+            .WillCascadeOnDelete(false);
 
         modelBuilder.Entity<Favorite>()
             .HasRequired(f => f.User)

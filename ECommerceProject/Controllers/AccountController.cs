@@ -23,7 +23,7 @@ namespace ECommerceProject.Web.Controllers
             {
                 Session["CurrentUser"] = user;
 
-                // 🔒 Geri dönülecek URL varsa oraya yönlendir
+             
                 if (TempData["ReturnUrl"] != null)
                 {
                     string returnUrl = TempData["ReturnUrl"].ToString();
@@ -50,7 +50,7 @@ namespace ECommerceProject.Web.Controllers
         [HttpPost]
         public ActionResult Register(User user, string Password)
         {
-            // Email zaten kayıtlı mı?
+            
             var existingUser = _context.Users.FirstOrDefault(u => u.Email == user.Email);
             if (existingUser != null)
             {

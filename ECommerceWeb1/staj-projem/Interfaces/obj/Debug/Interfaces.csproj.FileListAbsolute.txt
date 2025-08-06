@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Interfaces\obj\Debug\Interfaces.pdb

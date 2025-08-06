@@ -32,7 +32,7 @@ namespace ECommerceProject.Business.Concrete
                 cart.Add(new CartItem
                 {
                     ProductId = product.Id,
-                    Product = product, // BU SATIRI EKLE
+                    Product = product, 
                     Quantity = 1
                 });
             }
@@ -67,5 +67,6 @@ namespace ECommerceProject.Business.Concrete
         {
             session[CartSessionKey] = new List<CartItem>();
         }
+    
     }
 }

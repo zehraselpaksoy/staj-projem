@@ -1,0 +1,15 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntitiyFrameworkDemoü.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntitiyFrameworkDemoü.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntitiyFrameworkDemoü.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntityFramework.dll
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntityFramework.xml
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemoü.Form1.resources
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemoü.Properties.Resources.resources
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyF.6D748D21.Up2Date
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemoü.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\EntitiyFrameworkDemoü\obj\Debug\EntitiyFrameworkDemoü.pdb

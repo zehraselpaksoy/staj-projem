@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B652E0D-DDC0-44C6-BF9F-9856A23C261E}|Attributes\\Attributes.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B652E0D-DDC0-44C6-BF9F-9856A23C261E}|Attributes\\Attributes.csproj|solutionrelative:attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\entitiyframeworkdemo\u00FC\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|solutionrelative:entitiyframeworkdemo\u00FC\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B17E7F-22D0-4826-8983-9005547ED7F2}|Generics\\Generics.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B17E7F-22D0-4826-8983-9005547ED7F2}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\adonetdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95698E4D-0A17-4B8E-B98C-56241F4443D7}|Delegate\\Delegate.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95698E4D-0A17-4B8E-B98C-56241F4443D7}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940ECE7D-BEAB-4659-B850-40D76926DC3C}|Events\\Events.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940ECE7D-BEAB-4659-B850-40D76926DC3C}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940ECE7D-BEAB-4659-B850-40D76926DC3C}|Events\\Events.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940ECE7D-BEAB-4659-B850-40D76926DC3C}|Events\\Events.csproj|solutionrelative:events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E797D-D951-4601-A7CD-8AACED36BBA8}|Reflection\\Reflection.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E797D-D951-4601-A7CD-8AACED36BBA8}|Reflection\\Reflection.csproj|solutionrelative:reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\entitiyframeworkdemo\u00FC\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|solutionrelative:entitiyframeworkdemo\u00FC\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\entitiyframeworkdemo\u00FC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|solutionrelative:entitiyframeworkdemo\u00FC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3928C90-0CFC-4D26-9A4A-13F0F9D8D26D}|Exceptions\\Exceptions.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\exceptions\\recordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3928C90-0CFC-4D26-9A4A-13F0F9D8D26D}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\recordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\adonetdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\adonetdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\adonetdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\adonetdemo\\productdaldatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6A313C-3AF1-45D3-BA50-F4B756404A91}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\productdaldatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Etrade/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3928C90-0CFC-4D26-9A4A-13F0F9D8D26D}|Exceptions\\Exceptions.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3928C90-0CFC-4D26-9A4A-13F0F9D8D26D}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\entitiyframeworkdemo\u00FC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301DBD6-0C29-43E7-99F8-98D9995808C6}|EntitiyFrameworkDemo\u00FC\\EntitiyFrameworkDemo.csproj|solutionrelative:entitiyframeworkdemo\u00FC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "Attributes\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Attributes\\Program.cs",
+              "RelativeToolTip": "Attributes\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:20:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:53:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Events\\Product.cs",
+              "RelativeDocumentMoniker": "Events\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Events\\Product.cs",
+              "RelativeToolTip": "Events\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:52:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:52:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Reflection\\Program.cs",
+              "RelativeToolTip": "Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:51:27.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Product.cs",
+              "RelativeDocumentMoniker": "EntitiyFrameworkDemo\u00FC\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Product.cs",
+              "RelativeToolTip": "EntitiyFrameworkDemo\u00FC\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:01:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\ProductDal.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\ProductDal.cs",
+              "RelativeToolTip": "AdoNetDemo\\ProductDal.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:53:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Product.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\Product.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Product.cs",
+              "RelativeToolTip": "AdoNetDemo\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:53:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "AdoNetDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:53:44.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\ProductDal.cs",
+              "RelativeDocumentMoniker": "EntitiyFrameworkDemo\u00FC\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\ProductDal.cs",
+              "RelativeToolTip": "EntitiyFrameworkDemo\u00FC\\ProductDal.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:54:49.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:21:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Exceptions\\RecordNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\RecordNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Exceptions\\RecordNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\RecordNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:52:52.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\Form1.cs",
+              "RelativeToolTip": "AdoNetDemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:03:08.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "RelativeDocumentMoniker": "EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Form1.cs [Design]",
+              "RelativeToolTip": "EntitiyFrameworkDemo\u00FC\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:45:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDalDataTable.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\ProductDalDataTable.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\ProductDalDataTable.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\AdoNetDemo\\ProductDalDataTable.cs",
+              "RelativeToolTip": "AdoNetDemo\\ProductDalDataTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:53:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Etrade/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Etrade/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T06:54:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:52:54.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "RelativeDocumentMoniker": "EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\Staj\\EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "RelativeToolTip": "EntitiyFrameworkDemo\u00FC\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:00:31.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
