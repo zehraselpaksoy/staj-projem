@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\bin\Debug\ShopiningCart.exe.config
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\bin\Debug\ShopiningCart.exe
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\bin\Debug\ShopiningCart.pdb
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\obj\Debug\ShopiningCart.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\obj\Debug\ShopiningCart.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\obj\Debug\ShopiningCart.exe
+C:\Users\ZEHRA ASEL\source\repos\UnitTestProject1\ShopiningCart\obj\Debug\ShopiningCart.pdb

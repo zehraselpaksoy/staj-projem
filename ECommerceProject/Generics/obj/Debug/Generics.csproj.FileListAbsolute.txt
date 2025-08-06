@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\bin\Debug\Generics.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\bin\Debug\Generics.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\bin\Debug\Generics.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\obj\Debug\Generics.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Generics\obj\Debug\Generics.pdb

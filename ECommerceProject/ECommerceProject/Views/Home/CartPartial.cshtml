@@ -1,0 +1,41 @@
+﻿@model List<ECommerceProject.Entities.Concrete.CartItem>
+
+@if (Model == null || !Model.Any())
+{
+    <div class="alert alert-info text-center mt-3">Sepetiniz boş.</div>
+}
+else
+{
+    <table class="table table-striped table-hover mt-3">
+        <thead class="table-primary">
+            <tr>
+                <th>Ürün</th>
+                <th>Fiyat</th>
+                <th>Adet</th>
+                <th>İşlem</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.Product != null ? item.Product.Name : "Bilinmeyen Ürün")</td>
+                    <td>@item.UnitPrice.ToString("C")</td>
+                    <td>@item.Quantity</td>
+                    <td>
+                        <a href="@Url.Action("DecreaseQuantity", "Home", new { id = item.ProductId })"
+                           class="btn btn-sm btn-outline-secondary cart-action-link me-1" data-action="decrease">-</a>
+                        <a href="@Url.Action("IncreaseQuantity", "Home", new { id = item.ProductId })"
+                           class="btn btn-sm btn-outline-secondary cart-action-link" data-action="increase">+</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h5 class="text-end fw-bold mt-3">Toplam Tutar: @Model.Sum(x => x.TotalPrice).ToString("C")</h5>
+
+    <div class="text-end">
+        <a href="@Url.Action("ClearCart", "Home")" class="btn btn-danger btn-sm cart-action-link mt-2" data-action="clear">Sepeti Temizle</a>
+    </div>
+}

@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\bin\Debug\Loops.exe.config
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\bin\Debug\Loops.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\bin\Debug\Loops.pdb
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\obj\Debug\Loops.exe
+C:\Users\ZEHRA ASEL\source\repos\Staj\Loops\obj\Debug\Loops.pdb

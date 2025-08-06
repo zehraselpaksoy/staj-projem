@@ -1,0 +1,23 @@
+﻿@model List<ECommerceProject.Entities.Concrete.Category>
+@{
+    var allCategories = ViewBag.AllCategories as List<ECommerceProject.Entities.Concrete.Category>;
+}
+
+<ul class="dropdown-menu">
+    @foreach (var sub in Model)
+    {
+        var hasSub = allCategories.Any(c => c.ParentId == sub.Id);
+        <li class="dropdown-submenu @(hasSub ? "position-relative" : "")">
+            <a class="dropdown-item @(hasSub ? "dropdown-toggle" : "")"
+               href="@Url.Action("Index", "Home", new { categoryId = sub.Id })"
+               role="button">
+                @sub.Name
+            </a>
+
+            @if (hasSub)
+            {
+                @Html.Partial("_SubCategoryMenu", allCategories.Where(c => c.ParentId == sub.Id).ToList())
+            }
+        </li>
+    }
+</ul>

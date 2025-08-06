@@ -1,0 +1,69 @@
+﻿@model ProductsViewModel
+@using System.Globalization
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Ürün Listesi";
+}
+
+<h2>Ürünler</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ürün Adı</th>
+            <th>Açıklama</th>
+            <th>Kategori</th> <!-- Full path -->
+            <th>Fiyat</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.FullCategoryPath</td> <!-- ✅ Yeni alan -->
+                <td>@item.Price.ToString("C", new CultureInfo("tr-TR"))</td>
+                <td>
+                    <a href="@Url.Action("AddToCart", "Home", new { id = item.Id })" class="btn btn-primary add-to-cart-btn">Sepete Ekle</a>
+                </td>
+                <td>
+                    @if (Model.FavoriteProductIds != null && Model.FavoriteProductIds.Contains(item.Id))
+                    {
+                        <a href="@Url.Action("RemoveFromFavorites", "Home", new { productId = item.Id })" class="btn btn-danger">
+                            🗑️ Favoriden Çıkar
+                        </a>
+                    }
+
+                    else
+                    {
+                        <a href="@Url.Action("AddToFavorites", "Home", new { productId = item.Id })" class="btn btn-outline-danger">
+                            ❤️ Favorilere Ekle
+                        </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $(".add-to-cart-btn").click(function (e) {
+                e.preventDefault();
+                var url = $(this).attr("href");
+
+                $.get(url)
+                    .done(function (data) {
+                        $("#cart-container").html(data);
+                    })
+                    .fail(function () {
+                        alert("Sepete eklenirken hata oluştu.");
+                    });
+            });
+        });
+    </script>
+}

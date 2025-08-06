@@ -1,0 +1,7 @@
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\bin\Debug\Mmento.exe.config
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\bin\Debug\Mmento.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\bin\Debug\Mmento.pdb
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\obj\Debug\Mmento.exe
+C:\Users\ZEHRA ASEL\source\repos\DesignPatterns\Mmento\obj\Debug\Mmento.pdb

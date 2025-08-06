@@ -1,0 +1,41 @@
+﻿@model List<ECommerceProject.Entities.Concrete.Category>
+
+<ul class="navbar-nav">
+    @foreach (var topCat in Model.Where(c => c.ParentId == null))
+    {
+        var subCats = Model.Where(c => c.ParentId == topCat.Id).ToList();
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="@Url.Action("Index", "Home", new { categoryId = topCat.Id })"
+               id="dropdown_@topCat.Id"
+               role="button"
+               data-bs-toggle="dropdown"
+               aria-expanded="false">
+                @topCat.Name
+            </a>
+            @if (subCats.Any())
+            {
+                <ul class="dropdown-menu" aria-labelledby="dropdown_@topCat.Id">
+                    @foreach (var sub in subCats)
+                    {
+                        var subSubCats = Model.Where(c => c.ParentId == sub.Id).ToList();
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item" href="@Url.Action("Index", "Home", new { categoryId = sub.Id })">@sub.Name</a>
+                            @if (subSubCats.Any())
+                            {
+                                <ul class="dropdown-menu">
+                                    @foreach (var subSub in subSubCats)
+                                    {
+                                        <li>
+                                            <a class="dropdown-item" href="@Url.Action("Index", "Home", new { categoryId = subSub.Id })">@subSub.Name</a>
+                                        </li>
+                                    }
+                                </ul>
+                            }
+                        </li>
+                    }
+                </ul>
+            }
+        </li>
+    }
+</ul>
